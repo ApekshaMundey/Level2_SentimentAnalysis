@@ -114,7 +114,7 @@ An interactive web app was built using Streamlit featuring:
 * Highlighted text visualization
 * Sarcasm / mixed sentiment warnings
 
-Streamlit deployment link: (Will be added)
+Streamlit deployment link: https://level2sentimentanalysis-lvtgynsgvsmjrmjs63e9dg.streamlit.app/
 
 ---
 
@@ -135,7 +135,7 @@ Streamlit deployment link: (Will be added)
 pip install -r requirements.txt
 streamlit run app.py
 ```
-Streamlit deployment link: (Will be added)
+Streamlit deployment link: https://level2sentimentanalysis-lvtgynsgvsmjrmjs63e9dg.streamlit.app/
 
 ---
 
